@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Internship Test</string>
+    <string name="status">В сети</string>
+    <string name="my_home">Мой дом</string>
+    <string name="cameras">Камеры</string>
+    <string name="doors">Двери</string>
+    <string name="error">Произошла ошибка</string>
+    <string name="try_again">Попробовать снова</string>
+</resources>
